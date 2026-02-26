@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I am a Computer Engineering graduate who enjoys building complete end-to-end web applications rather than just UI projects. I have developed a full-stack booking platform, an API-driven weather application, and an AI-powered resume builder, handling everything from frontend interfaces to backend logic and database integration. Alongside development, I actively practice data structures and problem-solving to strengthen my fundamentals and write more efficient code.
+       I am a 2025 Computer Engineering graduate who enjoys building complete end-to-end web applications rather than just UI projects. I have developed a full-stack booking platform, an API-driven weather application, and an AI-powered resume builder, handling everything from frontend interfaces to backend logic and database integration. Alongside development, I actively practice data structures and problem-solving to strengthen my fundamentals and write more efficient code.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
