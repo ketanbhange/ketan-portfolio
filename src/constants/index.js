@@ -203,7 +203,7 @@ const projects = [
     ],
      image: weather,
     source_code_link: "https://github.com/ketanbhange/Weather",
-    live_link: "https://your-live-link.com",
+    live_link: "https://weather1-eker.onrender.com/",
   },
 ];
 
