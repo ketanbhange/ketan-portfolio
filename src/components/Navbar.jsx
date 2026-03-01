@@ -59,18 +59,6 @@ const Navbar = () => {
               <a href={`#${nav.id}`}>{nav.title}</a>
             </li>
           ))}
-
-          {/* Resume Button */}
-          <li>
-            <a
-              href="/resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-[#915EFF] text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-[#7c4dff] transition duration-300"
-            >
-              Resume ↗
-            </a>
-          </li>
         </ul>
 
         {/* Mobile Menu */}
@@ -102,18 +90,6 @@ const Navbar = () => {
                   <a href={`#${nav.id}`}>{nav.title}</a>
                 </li>
               ))}
-
-              {/* Resume Button Mobile */}
-              <li className="w-full">
-                <a
-                  href="/resume.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-full text-center bg-[#915EFF] text-white px-4 py-2 rounded-md text-sm block"
-                >
-                  Resume ↗
-                </a>
-              </li>
             </ul>
           </div>
         </div>
