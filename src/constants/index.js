@@ -175,7 +175,7 @@ const projects = [
     ],
      image: tripnest,
     source_code_link: "https://github.com/ketanbhange/TripNest",
-    live_link: "https://your-live-link.com",
+    live_link: "https://wanderlust-2-ggwl.onrender.com/listing",
   },
 
   {
@@ -190,7 +190,7 @@ const projects = [
     ],
      image:ai,
     source_code_link: "https://github.com/ketanbhange/ai-resume-builder-strapi-admin",
-    live_link: "https://your-live-link.com",
+    live_link: "https://ai-resume-builder-frontend-eight.vercel.app/",
   },
  {
     name: "SkyCast",
